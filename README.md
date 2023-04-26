@@ -1,3 +1,3 @@
 # odin-recipes
-First Project
+## First Project
 Linked multiple recipe pages together on the homepage of the website
